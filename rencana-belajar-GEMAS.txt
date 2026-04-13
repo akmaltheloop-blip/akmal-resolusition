@@ -1,0 +1,8 @@
+rencana belajar gemastik
+- teori
+ *looping
+ *if/else
+ *algoritma
+- praktek
+- latsol
+- belajar lewat guru langsung
